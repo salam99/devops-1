@@ -36,4 +36,3 @@
        sh "curl --retry-delay 10 --retry 5 http://localhost:7080/devops"
    }
 }
-© 2019 GitHub, Inc.
